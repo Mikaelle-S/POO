@@ -5,7 +5,7 @@ o programa deve ler a opção desejada, ler dois valores, executar a operação 
 */
 import java.util.Scanner;
 
-public class atv1q10b{
+public class Q10{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("A - Multiplicar\nB - Somar\nC - Subtrair\nD - Dividir");
