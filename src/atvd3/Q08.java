@@ -1,6 +1,9 @@
+/*
+Elabore um programa que receba o valor da cotação do dólar, o valor em reais e apresente o valor em dólares.
+*/
 import java.util.Scanner;
 
-public class Atv3q8 {
+public class Q08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         dolar(sc);
