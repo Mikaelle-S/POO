@@ -1,6 +1,12 @@
+/*
+Implemente de forma recursiva a função de Fibonacci, que é dada pela seguinte fórmula:
+    F(n)= {0, SE n = 0
+          1, SE n = 1
+          F(n-1) + F(n-2) outros casos.
+*/
 import java.util.Scanner;
 
-public class Atv3q4 {
+public class Q04 {
     public static void main(String[] args) {
         Atv3q4 f = new Atv3q4();
         Scanner sc = new Scanner(System.in);
