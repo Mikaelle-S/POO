@@ -1,6 +1,9 @@
+/*
+Elabore uma função que receba dois números positivos por parâmetro e retorne a soma dos N números inteiros existentes entre eles.
+*/
 import java.util.Scanner;
 
-public class Atv3q5 {
+public class Q05 {
     public static void main(String[] args) {
         Atv3q5 obj = new Atv3q5();
         Scanner sc = new Scanner(System.in);
