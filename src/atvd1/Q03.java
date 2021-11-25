@@ -5,7 +5,7 @@ mensagem que informe também o nome do aluno e da disciplina cursada.
 */
 import java.util.Scanner;
 
-public class atv1q3{
+public class Q03{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nome;
