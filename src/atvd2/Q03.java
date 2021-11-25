@@ -4,7 +4,7 @@ Caso contrário, escreva o número na tela.
 */
 import java.util.Scanner;
 
-public class atv2q3{
+public class Q03{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Entre com um numero:");
