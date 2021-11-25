@@ -1,6 +1,9 @@
+/*
+Escreva uma função que receba um caractere e retorne 1 se for uma consoante e 0 se for vogal.
+*/
 import java.util.Scanner;
 
-public class Atv3q6 {
+public class Q06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Entre com o caractere:");
