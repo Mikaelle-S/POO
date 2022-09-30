@@ -1,6 +1,6 @@
 # POO
 
-Minhas soluções dos exercicíos de Programação Orientada a Objetos da cadeira de Linguagem de Programação II.
+Minhas resoluções dos exercicíos de Programação Orientada a Objetos da cadeira de Linguagem de Programação II.
 ## Lista de atividades.
 > - **Atividade 1**  [Conceitos básicos.](https://github.com/Mikaelle-S/POO/tree/main/src/atvd1)
 > - **Atividade 2**  [- Comandos de seleção; - Comandos de iteração; - Vetores e Matrizes.](https://github.com/Mikaelle-S/POO/tree/main/src/atvd2)
