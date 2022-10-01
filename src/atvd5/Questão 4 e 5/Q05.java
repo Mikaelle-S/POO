@@ -1,6 +1,10 @@
+/*
+Considerando a atividade anterior (Q04), crie agora funções para: ler valores dessa
+enumeração (meses do ano) a partir do teclado; escrever esses valores na tela.
+*/
 import java.util.Scanner;
 
-public class Atv5q5{
+public class Q05{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Entre com o mes (1 a 12)");
