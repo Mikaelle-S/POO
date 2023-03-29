@@ -1,0 +1,78 @@
+1. Observe os objetos à sua volta, escolha um deles e descreva de 3 a 5
+    características (atributos) e comportamentos (métodos). Por exemplo: Livro,
+    Celular, Mamíferos, Aves e Flores
+
+    public class Celular{
+        private String marca, modelo;
+        private int ano;
+
+        public celular(String marca, String modelo, int ano){
+            this.marca = marca;
+            this.modelo = modelo;
+            this.ano = ano;
+        }
+        
+        public String getMarca() {
+            return this.marca;
+        }
+        public void setMarca(String marca) {
+            this.marca = marca;
+        }
+
+        public String getModelo() {
+            return this.modelo;
+        }
+        public void setModelo(String modelo) {
+            this.modelo = modelo;
+        }
+
+        public int getAno() {
+            return this.ano;
+        }
+        public void setAno(int ano) {
+            this.ano = ano;
+        }
+    }
+
+2. Defina o conceito de classe e objetos.
+        Uma classe é um grupo de objetos que possuem propriedades comuns. É um modelo a partir
+    do qual os objetos são criados. Uma classe Java pode conter:Variáveis, métodos, construtores,
+    blocos, classe e interface
+        Um objeto é a instância (resultado) de uma classe. Uma entidade que possui estado e
+    comportamento é conhecida como um objeto, por exemplo, caneta. O nome é Bic; a cor é azul,
+    são conhecidos como estado. É usado para escrever, então escrever é o seu comportamento
+
+3. Para que servem atributos e métodos?
+        Um atributos serve para caracterizar um objeto a partir de variáveis adequadas ao objeto
+    declarado    
+        Um método é como uma função usada para expor o comportamento de um objeto.
+
+4. Qual é a diferença entre classe e objeto?
+        Classe tipifica o que será modelado por ela. Ela determina os estados possíveis e os
+    comportamentos que os objetos podem ter.
+        O objeto é a casa. É algo concreto, algo físico.
+
+7. Verifique agora a sua volta a quantidade de objetos que o cerca, identifique um conjunto de 5 a 
+10 deles e descreva as seguintes características: nome e para que servem. Por exemplo:
+Nome: Computador
+Serve para: Trabalhar (inclui preparar esta aula), comunicar-me com meus amigos e me divertir.
+
+    Nome: Computador 
+    Serve: Estudar e trabalhar.
+
+    Nome: Celular
+    Serve: comunicar-me com as pessoas e jogar.
+
+    Nome: Caderno
+    Serve: Escrever meus resumos, minhas anotações e atividades.
+
+
+8. O que é a troca de mensagens entre objetos?
+        A troca de mensagens ocorre através da chamada aos métodos de um objeto por outro objeto.
+    Quando o objeto A mandar uma mensagem para o objeto B é o mesmo que dizer que durante
+    a execução de algum método do objeto A você chama um método do objeto B.
+9. Como os sistemas OO implementam sua solução?
+        O principal objetivo da programação orientada a objetos é implementar um programa usando
+    classes e objetos. Simplificar o desenvolvimento e a manutenção de software, fornecendo
+    alguns conceitos como: objeto, classes, abstração, herança, polimorfismo, etc.
+
