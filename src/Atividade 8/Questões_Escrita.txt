@@ -1,0 +1,17 @@
+1. O que você entende por encapsulamento? Para que serve? E como aplicar?
+        Encapsulamento: Vincular ou agrupar código e dados em uma única unidade. Uma classe em java
+    é um exemplo de encapsulamento.
+
+2. Antes de rever os conceitos, diga para que servem os modificadores de acesso:
+    a. Public → O método é acessível por todas as classes quando usamos o
+    especificador público em nosso aplicativo.
+
+    b. Private → Quando usamos um especificador de acesso privado, o método está
+    acessível apenas nas classes em que está definido.
+    
+    c. Package → É usado para declarar um pacote Java que inclui as classes.
+
+3. Pense e responda o que faria você decidir se um método deve ser usado como
+privado.   
+    Para que não ocorra nenhuma alteração, deixando somente acessíveis
+através dos métodos e preservando ainda mais a segurança do código (dados)
